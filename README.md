@@ -1,6 +1,6 @@
-### Bitlife DLC Unlocker for v3.17.3
+### Bitlife DLC Unlocker for v3.17.8
 
-**Download the file from the [Releases](https://github.com/om3ga6400/bitlife-unlocker/releases/tag/3.17.3) tab.**
+**Download the file from the [Releases](https://github.com/om3ga6400/bitlife-unlocker/releases/tag/3.17.8) tab.**
 
 More details can be found on the Releases Page. Always use the Latest release.
 
@@ -8,4 +8,4 @@ Updates will be released only after a new item, job pack, expansion, or other DL
 
 Feel free to create an issue if there's an Update to the game!
 
-Last Updated:  1/12/2025
+Last Updated:  Feb 17, 2025
